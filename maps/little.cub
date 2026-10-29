@@ -1,0 +1,12 @@
+NO ./assets/wall1.xpm
+SO ./assets/wall2.xpm
+EA ./assets/wall3.xpm
+WE ./assets/wall4.xpm
+DO ./assets/closed_door.xpm
+
+C 120,255,255
+F 51,25,0
+
+111
+1N1
+111
